@@ -1,0 +1,697 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 16258 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52057
+Successfully changed project path to: E:/New Unity Project
+E:/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 51.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56944
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003130 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.692 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.347741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.865 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 4.452200 ms (FindLiveObjects: 1.057200 ms CreateObjectMapping: 0.203200 ms MarkObjects: 3.065900 ms  DeleteObjects: 0.123700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SimpleNaturePack/Scenes
+  artifactKey: Guid(cf7d20afeed25e648acff9bab9734317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes using Guid(cf7d20afeed25e648acff9bab9734317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9bbcdcb2cb07bfd58280febb04314d') in 0.064910 seconds
+  Import took 0.068882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.392351 seconds.
+  path: Assets/SimpleNaturePack/Models/Branch_01.fbx
+  artifactKey: Guid(5528351815fd4c04abf537f22c7e18f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Branch_01.fbx using Guid(5528351815fd4c04abf537f22c7e18f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89bf81150faef94f2bbd2eaf35f955da') in 0.831892 seconds
+  Import took 0.834472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_02.fbx
+  artifactKey: Guid(3a775dc2c1a334b45a5667a56fe92c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_02.fbx using Guid(3a775dc2c1a334b45a5667a56fe92c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c6c685449b6f031fc1e0c1d481c5ac') in 0.073622 seconds
+  Import took 0.078358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000848 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_03.fbx
+  artifactKey: Guid(14125b656fb71fd4d9d65bfe344107ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_03.fbx using Guid(14125b656fb71fd4d9d65bfe344107ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011cf3c3c45aa7d8438909a42bef386f') in 0.056404 seconds
+  Import took 0.059084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/SimpleNaturePack/Models/Mushroom_01.fbx
+  artifactKey: Guid(d062f5c56ffb55c4f832432ada269abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Mushroom_01.fbx using Guid(d062f5c56ffb55c4f832432ada269abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25356282d2a51b61d444b4d89bf96ef') in 0.067095 seconds
+  Import took 0.070149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_02.fbx
+  artifactKey: Guid(4471b1f7f824e4d44887e1364c6fc61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_02.fbx using Guid(4471b1f7f824e4d44887e1364c6fc61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a051e442f2170f4ead39e5515344aa2') in 0.108299 seconds
+  Import took 0.113514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/SimpleNaturePack/Models/Ground_02.fbx
+  artifactKey: Guid(57d3eed6d2253d24994d5ad37e00aedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Ground_02.fbx using Guid(57d3eed6d2253d24994d5ad37e00aedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af377bbe3440a5772c7c30fb6f0804b2') in 0.101497 seconds
+  Import took 0.105061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_04.fbx
+  artifactKey: Guid(33ebf3440b12ec245bd008cd464f8d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_04.fbx using Guid(33ebf3440b12ec245bd008cd464f8d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16eadde8087c890bfc81b16692c3c7c7') in 0.047082 seconds
+  Import took 0.050156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_01.fbx
+  artifactKey: Guid(6c7eaede4efc960409fb9ef2dfb77f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_01.fbx using Guid(6c7eaede4efc960409fb9ef2dfb77f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f25ac876ac8cf3ec701e92f413ce675') in 0.069463 seconds
+  Import took 0.073062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/SimpleNaturePack/Models/Ground_03.fbx
+  artifactKey: Guid(661464e19c087564badb2bf5230c842c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Ground_03.fbx using Guid(661464e19c087564badb2bf5230c842c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a230d244ba79e1f21a50491f85e5df23') in 0.069567 seconds
+  Import took 0.091398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_03.fbx
+  artifactKey: Guid(69f0af3a0a6c73b4ab4b89eb82cdc488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_03.fbx using Guid(69f0af3a0a6c73b4ab4b89eb82cdc488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08517019e5a25c613961aa6f5e818db4') in 0.069295 seconds
+  Import took 0.074191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/SimpleNaturePack/Models/Bush_01.fbx
+  artifactKey: Guid(d8ea93d2d4757e444a5349f4bc849128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Bush_01.fbx using Guid(d8ea93d2d4757e444a5349f4bc849128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148cfb993c59e4f318611aff065a728e') in 0.087202 seconds
+  Import took 0.101910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/SimpleNaturePack/Models/Stump_01.fbx
+  artifactKey: Guid(768be665aba8b4e4aae7a973ae9616cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Stump_01.fbx using Guid(768be665aba8b4e4aae7a973ae9616cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e3b3dcee7de6e32dccebfec8d5789f') in 0.049496 seconds
+  Import took 0.075274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/SimpleNaturePack/Models/Mushroom_02.fbx
+  artifactKey: Guid(6c890c97a154a474082af84a379dffce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Mushroom_02.fbx using Guid(6c890c97a154a474082af84a379dffce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e68235c4fa4dba5726498662a72a03') in 0.098287 seconds
+  Import took 0.102920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/SimpleNaturePack/Models/Grass_02.fbx
+  artifactKey: Guid(638dc165572d2a84081d13ce1afb4d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Grass_02.fbx using Guid(638dc165572d2a84081d13ce1afb4d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef9434cc292b0a54b9fec72924363553') in 0.055457 seconds
+  Import took 0.058891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/SimpleNaturePack/Models/Ground_01.fbx
+  artifactKey: Guid(d4ad967689295ba4eaf8baeaebc8721b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Ground_01.fbx using Guid(d4ad967689295ba4eaf8baeaebc8721b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd070be75d963e8ce34350168f880496c') in 0.066331 seconds
+  Import took 0.069066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_01.fbx
+  artifactKey: Guid(e9089b1db16b58f4282a94e020b9c0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_01.fbx using Guid(e9089b1db16b58f4282a94e020b9c0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df484fb728c8e1e399eec7b41f776ce9') in 0.065902 seconds
+  Import took 0.072246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/SimpleNaturePack/Models/Bush_02.fbx
+  artifactKey: Guid(ba52853a69186a841a52a9cc2e9b77fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Bush_02.fbx using Guid(ba52853a69186a841a52a9cc2e9b77fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c579029bb1bcd169cdbff691bf47d03d') in 0.048892 seconds
+  Import took 0.052321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/SimpleNaturePack/Models/Grass_01.fbx
+  artifactKey: Guid(ad3119cbd6dce024e8460ef32dec49df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Grass_01.fbx using Guid(ad3119cbd6dce024e8460ef32dec49df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c34f502500802a875e2b3b786565abc') in 0.061973 seconds
+  Import took 0.065404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008075 seconds.
+  path: Assets/SimpleNaturePack/Models/Grass_01.fbx
+  artifactKey: Guid(ad3119cbd6dce024e8460ef32dec49df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Grass_01.fbx using Guid(ad3119cbd6dce024e8460ef32dec49df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c34f502500802a875e2b3b786565abc') in 0.097340 seconds
+  Import took 0.104178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.748683 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Branch_01.prefab
+  artifactKey: Guid(b9de24523a11d714db3851b5f0f9d527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Branch_01.prefab using Guid(b9de24523a11d714db3851b5f0f9d527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe73fb2b360fb69643faedfed34b50ad') in 0.057472 seconds
+  Import took 0.060719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Grass_01.prefab
+  artifactKey: Guid(f1fc5bb90ac285e4486771552d63bcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Grass_01.prefab using Guid(f1fc5bb90ac285e4486771552d63bcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a75d6f3c27d8d330fb55660a7efca2f') in 0.053727 seconds
+  Import took 0.244992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_02.prefab
+  artifactKey: Guid(cebfacc247a640945a2c30b442202fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_02.prefab using Guid(cebfacc247a640945a2c30b442202fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d88ee866f798f0d8afb39f90d27a1a') in 0.054218 seconds
+  Import took 0.059487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Tree_01.prefab
+  artifactKey: Guid(88f2fd29f58b9734683512546acec310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Tree_01.prefab using Guid(88f2fd29f58b9734683512546acec310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '404d1fdcf041c1da64b857b23d80ae59') in 0.062112 seconds
+  Import took 0.065788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_04.prefab
+  artifactKey: Guid(f02116c209ecd9e488fc4d2cd8996133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_04.prefab using Guid(f02116c209ecd9e488fc4d2cd8996133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b511d2d46b2e7c72c12b4d0a91afdfab') in 0.075746 seconds
+  Import took 0.079728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Ground_01.prefab
+  artifactKey: Guid(ebee340de387f334f9ac44e044abd8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Ground_01.prefab using Guid(ebee340de387f334f9ac44e044abd8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73abe1a8598162d410c2e81eab672ed') in 0.042671 seconds
+  Import took 0.045226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Mushroom_01.prefab
+  artifactKey: Guid(ff62b58c5a9ea164fa8ddf8038e10cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Mushroom_01.prefab using Guid(ff62b58c5a9ea164fa8ddf8038e10cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad6a5b209a3baaded3dec22fad75003') in 0.052834 seconds
+  Import took 0.058761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Ground_03.prefab
+  artifactKey: Guid(3f9b178ccd3b86f4ebbfc1f5a2815e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Ground_03.prefab using Guid(3f9b178ccd3b86f4ebbfc1f5a2815e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb9068ee871e542f2c3f712508a3f22') in 0.068791 seconds
+  Import took 0.072101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Mushroom_02.prefab
+  artifactKey: Guid(494f6d43e170e9145bc7865d243ee00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Mushroom_02.prefab using Guid(494f6d43e170e9145bc7865d243ee00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb29cd2dfecc096a90f240bdee6ac256') in 0.044236 seconds
+  Import took 0.066497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Stump_01.prefab
+  artifactKey: Guid(eebb56c82efbd8d4bb0eb6bd925a0e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Stump_01.prefab using Guid(eebb56c82efbd8d4bb0eb6bd925a0e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ed2686f7425e7348e9d6039e83871c2') in 0.058158 seconds
+  Import took 0.060983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Grass_02.prefab
+  artifactKey: Guid(ffbddc4ef9676cc419e81e06aaa836d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Grass_02.prefab using Guid(ffbddc4ef9676cc419e81e06aaa836d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224d9501df6c53818f6b8e6c14926d83') in 0.060114 seconds
+  Import took 0.063127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Bush_01.prefab
+  artifactKey: Guid(3cdafb3c2f54d434894928d72d282874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Bush_01.prefab using Guid(3cdafb3c2f54d434894928d72d282874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad6053eb915b1f9b71e850af07f79d1') in 0.044612 seconds
+  Import took 0.048098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_03.prefab
+  artifactKey: Guid(0fde05fa0f3321942a21896ff4f0856f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_03.prefab using Guid(0fde05fa0f3321942a21896ff4f0856f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f9c4b4e0c93f412767406fba7aa5c2') in 0.046327 seconds
+  Import took 0.074945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_01.prefab
+  artifactKey: Guid(c6308cb7062fac34e8e50600086b12a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_01.prefab using Guid(c6308cb7062fac34e8e50600086b12a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de60382afc0be5fc8023bba2ec88313d') in 0.065134 seconds
+  Import took 0.067722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Tree_02.prefab
+  artifactKey: Guid(e289bf5debb17f6459818c207d781953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Tree_02.prefab using Guid(e289bf5debb17f6459818c207d781953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd78edb3328a219f58bb5954df51b16') in 0.069149 seconds
+  Import took 0.073543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Tree_03.prefab
+  artifactKey: Guid(c60edd51c065ceb46b345849a03bc106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Tree_03.prefab using Guid(c60edd51c065ceb46b345849a03bc106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d262046fabb2e276b980e72de4ec83') in 0.044692 seconds
+  Import took 0.047218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Ground_02.prefab
+  artifactKey: Guid(e2e682b966e3f644392ffbfab511e0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Ground_02.prefab using Guid(e2e682b966e3f644392ffbfab511e0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b505ea1c807a1759e7a5e599350a8bac') in 0.050502 seconds
+  Import took 0.058613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Bush_02.prefab
+  artifactKey: Guid(b71b0f8d2f881c743a85228f3030d1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Bush_02.prefab using Guid(b71b0f8d2f881c743a85228f3030d1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc7fa6f32d534e81446c96d0ed45fe6') in 0.069864 seconds
+  Import took 0.075461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.452255 seconds.
+  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat
+  artifactKey: Guid(5f2c2ee5f84253b41b3ff0c1aafcc515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat using Guid(5f2c2ee5f84253b41b3ff0c1aafcc515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc0c478a7e25072e8fcae4499530aa65') in 0.381218 seconds
+  Import took 0.385458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat
+  artifactKey: Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat using Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7767ef0e6521b0378ef30cfaece7df3') in 0.059111 seconds
+  Import took 0.061850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009345 seconds.
+  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat
+  artifactKey: Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat using Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7767ef0e6521b0378ef30cfaece7df3') in 0.063716 seconds
+  Import took 0.071323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.010713 seconds.
+  path: Assets/SimpleNaturePack/Textures/NaturePackLite_Texture_01.png
+  artifactKey: Guid(28a51d508c86a8948b59df81d5188b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Textures/NaturePackLite_Texture_01.png using Guid(28a51d508c86a8948b59df81d5188b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c378d3656d4f2d6a8f9868467afbdc0') in 0.215051 seconds
+  Import took 0.219841 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001139 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 12.614 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1604.
+Total: 4.704200 ms (FindLiveObjects: 0.741900 ms CreateObjectMapping: 0.100300 ms MarkObjects: 3.773800 ms  DeleteObjects: 0.085600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 650.658563 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Character_icon/Ekard.png
+  artifactKey: Guid(4622ae0f8369c7c4ca9025114aa3baed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Character_icon/Ekard.png using Guid(4622ae0f8369c7c4ca9025114aa3baed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb8b3dd1265546819b689d776f98fc3') in 0.235450 seconds
+  Import took 0.277525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Character_icon/Ekard_Skill_01.png
+  artifactKey: Guid(5f256795dc4da154d820c9a9262e8048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Character_icon/Ekard_Skill_01.png using Guid(5f256795dc4da154d820c9a9262e8048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ed2a0b9e5007ed9d8d0f9a04eff152') in 0.136661 seconds
+  Import took 0.141731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.501737 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard.FBX
+  artifactKey: Guid(b3ac7d864261a9746b9ce84cdf06505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard.FBX using Guid(b3ac7d864261a9746b9ce84cdf06505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb10576459da4b58f20bc3734176596') in 0.874632 seconds
+  Import took 0.881913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_BattleIdle_01.fbx
+  artifactKey: Guid(b5610fb212a268243906cd0023ba0c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_BattleIdle_01.fbx using Guid(b5610fb212a268243906cd0023ba0c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b597119f295706eecada31de1b9ea4') in 0.213498 seconds
+  Import took 0.227424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Run_01.fbx
+  artifactKey: Guid(70f750aa77c120e4eb96fd01f061941d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Run_01.fbx using Guid(70f750aa77c120e4eb96fd01f061941d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547b214636d74ff5b2a862164f19e5cc') in 0.153482 seconds
+  Import took 0.171380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_02.fbx
+  artifactKey: Guid(c1e3e83c912d822479af4fa1aae5eb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_02.fbx using Guid(c1e3e83c912d822479af4fa1aae5eb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec4362a8206ac9b495be147e2bddf332') in 0.213043 seconds
+  Import took 0.216464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_01.FBX
+  artifactKey: Guid(9758fdb7e722ee44287681dc667ee36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_01.FBX using Guid(9758fdb7e722ee44287681dc667ee36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765a40d1b93394c46b27f4ca52c2e421') in 0.194922 seconds
+  Import took 0.199548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Sword_12.FBX
+  artifactKey: Guid(fc9c3be43ccf0d04da42bfe4759dfbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Sword_12.FBX using Guid(fc9c3be43ccf0d04da42bfe4759dfbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac45308a6a720425885de5ff20526e2') in 0.159172 seconds
+  Import took 0.171038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000887 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Debuff_01.fbx
+  artifactKey: Guid(e6c9b4210a146794792aff515491ba16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Debuff_01.fbx using Guid(e6c9b4210a146794792aff515491ba16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c61d31ebf489a69fa3b0d69b2f149d9') in 0.590671 seconds
+  Import took 0.600010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002668 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Skill_01.fbx
+  artifactKey: Guid(74a0e06cc2ddac34f9a7187a91b08317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Skill_01.fbx using Guid(74a0e06cc2ddac34f9a7187a91b08317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b587e0808e996bd166314b928abcb36b') in 0.178822 seconds
+  Import took 0.216286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Stun_01.fbx
+  artifactKey: Guid(0e6f6c073ade8d240bcdf45767f1b953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Stun_01.fbx using Guid(0e6f6c073ade8d240bcdf45767f1b953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7878e644a00cdd6a1c636cd6b37b6c') in 0.179376 seconds
+  Import took 0.189432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202531 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_01_h.fbx
+  artifactKey: Guid(b80941903823f8c42bf43cfc39abbafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_01_h.fbx using Guid(b80941903823f8c42bf43cfc39abbafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca8a15bf5f81a7b83abe1e976698989') in 0.128706 seconds
+  Import took 0.134108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Run_01_h.fbx
+  artifactKey: Guid(0b589af0c1173b54e9123368661752d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Run_01_h.fbx using Guid(0b589af0c1173b54e9123368661752d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '885dac85859df024d063d6c33c4a720f') in 0.150694 seconds
+  Import took 0.156353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000785 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_02_h.fbx
+  artifactKey: Guid(3d25bf847979e0e45bfec9c4c2a1f02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_02_h.fbx using Guid(3d25bf847979e0e45bfec9c4c2a1f02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d9d154d0405e7f140c3ea1f9051213') in 0.170141 seconds
+  Import took 0.175606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_h.FBX
+  artifactKey: Guid(9c772f8fd5a14c54fbcb4dd0b4cbaef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_h.FBX using Guid(9c772f8fd5a14c54fbcb4dd0b4cbaef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a420df50217f76ec0e07a5a80d105e5') in 0.184563 seconds
+  Import took 0.196367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_BattleIdle_01_h.fbx
+  artifactKey: Guid(f663597c55671244693d9ec3cc1ddc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_BattleIdle_01_h.fbx using Guid(f663597c55671244693d9ec3cc1ddc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b3d69ec2f02491fbc86cd3cde1686b6') in 0.164499 seconds
+  Import took 0.219920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Skill_01_h.fbx
+  artifactKey: Guid(d18986977191f8c44822f215704a6902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Skill_01_h.fbx using Guid(d18986977191f8c44822f215704a6902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b27c60cb52429c42a118aa089e7974') in 0.192462 seconds
+  Import took 0.197919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003284 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Stun_01_h.fbx
+  artifactKey: Guid(13b008e8fbc44f84b99b1bc0663ef579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Stun_01_h.fbx using Guid(13b008e8fbc44f84b99b1bc0663ef579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce30984d452d52e21e1cb188b72a6ee3') in 0.185601 seconds
+  Import took 0.191747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Debuff_01_h.fbx
+  artifactKey: Guid(310da346f97883840a3c37234578f103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Debuff_01_h.fbx using Guid(310da346f97883840a3c37234578f103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7a3a75c2c86338bd7097d7d1c69c17') in 0.170510 seconds
+  Import took 0.174545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.301300 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Ekard.mat
+  artifactKey: Guid(9f43f4112af6f3b4b8227b9b7c3ca8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Ekard.mat using Guid(9f43f4112af6f3b4b8227b9b7c3ca8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3b1fa266c14eed7bb3ad571ca94288') in 0.629956 seconds
+  Import took 0.636879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Sword_12.mat
+  artifactKey: Guid(456e02623a6d0ce40b393cb00214245e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Sword_12.mat using Guid(456e02623a6d0ce40b393cb00214245e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce6e361966dd9845f4b905a99b2e0c7') in 0.310096 seconds
+  Import took 0.317268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.750375 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Textures/RuneKnight_M_Ekard.tga
+  artifactKey: Guid(7adaa526ad1189d428afdf93eab03943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Textures/RuneKnight_M_Ekard.tga using Guid(7adaa526ad1189d428afdf93eab03943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63a37d086f625fada165da476bb12896') in 0.337030 seconds
+  Import took 0.346442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Textures/Sword_12.tga
+  artifactKey: Guid(92240cdee32f9d9459fc6e3bef695b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Textures/Sword_12.tga using Guid(92240cdee32f9d9459fc6e3bef695b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd862cf0a2584f517dc6c35d5ad9062') in 0.119867 seconds
+  Import took 0.131749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.884839 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Prefaps/Directional light.prefab
+  artifactKey: Guid(5bee18225c6b8614b90b59586bc7a4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Prefaps/Directional light.prefab using Guid(5bee18225c6b8614b90b59586bc7a4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881adaef40497156dc9c04b05881045c') in 0.061544 seconds
+  Import took 0.075467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Prefaps/Ekard_Generic.prefab
+  artifactKey: Guid(b02dae70454e88b4dabff60c98182c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Prefaps/Ekard_Generic.prefab using Guid(b02dae70454e88b4dabff60c98182c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562e755e6dccbaf174dd870dc678bc35') in 0.811666 seconds
+  Import took 0.905403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001565 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Prefaps/Main Camera.prefab
+  artifactKey: Guid(f835c6120f747a749b0a0c10f6c2c572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Prefaps/Main Camera.prefab using Guid(f835c6120f747a749b0a0c10f6c2c572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd105f5c8d80dfe351354d050e1482cac') in 0.118887 seconds
+  Import took 0.130492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Prefaps/Ekard_Humanoid.prefab
+  artifactKey: Guid(5e948eb931d08954191a1d35a0853595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Prefaps/Ekard_Humanoid.prefab using Guid(5e948eb931d08954191a1d35a0853595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7931839cf19e49906399a2a9f0266b') in 0.197950 seconds
+  Import took 0.212773 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000777 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 18.777 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1615.
+Total: 6.326500 ms (FindLiveObjects: 0.557200 ms CreateObjectMapping: 0.208600 ms MarkObjects: 5.448200 ms  DeleteObjects: 0.109900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.530 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 2.746800 ms (FindLiveObjects: 0.304600 ms CreateObjectMapping: 0.100900 ms MarkObjects: 2.258500 ms  DeleteObjects: 0.080200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 677.295888 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Animator/Ekard_Generic.controller
+  artifactKey: Guid(dd1ba564703fb8240bb69db69f4af349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Animator/Ekard_Generic.controller using Guid(dd1ba564703fb8240bb69db69f4af349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248c82a7eedcccf2312b84a81c1db84e') in 0.110139 seconds
+  Import took 0.119199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.676695 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Animator/Ekard_Humanoid.controller
+  artifactKey: Guid(a3ddc4f43a4b5be4293c53e1c8588895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Animator/Ekard_Humanoid.controller using Guid(a3ddc4f43a4b5be4293c53e1c8588895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe92c87986f7fb9900e5d166743dbd4') in 0.152974 seconds
+  Import took 0.185068 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
