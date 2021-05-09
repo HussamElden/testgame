@@ -74,3 +74,592 @@ Received Import Request.
 Start importing Assets/Supercyan Character Pack Zombie Sample using Guid(2c38f4dca43802647959ac29ebf3e679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4b1784c65e6d49670fc1dbec8b0e02') in 0.003600 seconds
   Import took 0.005491 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 159.280601 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs
+  artifactKey: Guid(32fcfbac277f4a9469bbe5363f81f911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs using Guid(32fcfbac277f4a9469bbe5363f81f911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915ca2a84f6bd138af62e7e8c052a9fe') in 0.001561 seconds
+  Import took 0.003962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.290102 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement
+  artifactKey: Guid(e77aed1e4c0701c4fa932f1e9c908208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement using Guid(e77aed1e4c0701c4fa932f1e9c908208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31cb4cf97c02b4687b7a5010329027b4') in 0.001213 seconds
+  Import took 0.003006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.013617 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile
+  artifactKey: Guid(69b726a217b61b2409e8a9e976867515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile using Guid(69b726a217b61b2409e8a9e976867515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0e0166ca39a831eaf35260e704bb4b') in 0.001624 seconds
+  Import took 0.004118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053468 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile/MobileFreeZombieSimpleMovement.prefab
+  artifactKey: Guid(2869f50f08793594889040a0ec4b691e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile/MobileFreeZombieSimpleMovement.prefab using Guid(2869f50f08793594889040a0ec4b691e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc0fd570197a97df0e14b4f98d24205') in 0.179075 seconds
+  Import took 0.181648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 239.156680 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scenes
+  artifactKey: Guid(8e2b405c7e097ab4fba3124673ee638f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes using Guid(8e2b405c7e097ab4fba3124673ee638f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35bec5263396c610027fe93c197d0e4f') in 0.001920 seconds
+  Import took 0.005339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.993998 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene.unity
+  artifactKey: Guid(9638f4fb02de02f49ae57e7f5e2373df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene.unity using Guid(9638f4fb02de02f49ae57e7f5e2373df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00195c422f2cb7b291cab0cd6ac68e5') in 0.001899 seconds
+  Import took 0.003828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.768184 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene
+  artifactKey: Guid(d382998a341c8384c9283267dafdc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene using Guid(d382998a341c8384c9283267dafdc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5787d796dcccd8cc12792382540ab04') in 0.001494 seconds
+  Import took 0.003707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070259 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene/LightingData.asset
+  artifactKey: Guid(d275f529a3c5d2949a58e5d126833d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene/LightingData.asset using Guid(d275f529a3c5d2949a58e5d126833d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ad6dcde3c4a60a4d0f492ef5c485e8') in 0.003049 seconds
+  Import took 0.004866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018957 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene/ReflectionProbe-0.exr
+  artifactKey: Guid(43c9b42a3c4a3cf47af933aa55693c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene/ReflectionProbe-0.exr using Guid(43c9b42a3c4a3cf47af933aa55693c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d1014c45e395d721a35d8290b1cfbc') in 0.090618 seconds
+  Import took 0.092483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.852594 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scripts
+  artifactKey: Guid(2011d135dfc132b42b7cae04447cb1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts using Guid(2011d135dfc132b42b7cae04447cb1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c45ed1151723c2c9f14b959e208cb5a') in 0.001570 seconds
+  Import took 0.003606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.538518 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCameraLogic.cs
+  artifactKey: Guid(90ded75707e6bc14a9c7a555fceb1d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCameraLogic.cs using Guid(90ded75707e6bc14a9c7a555fceb1d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca7039f71e24d311b5e8135167e7a70') in 0.003053 seconds
+  Import took 0.004960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.610879 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs
+  artifactKey: Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs using Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b193587a478d91a3d93afa901cbde7') in 0.001227 seconds
+  Import took 0.002965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001874 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs
+  artifactKey: Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs using Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b193587a478d91a3d93afa901cbde7') in 0.001053 seconds
+  Import took 0.002781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.819898 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieFree.cs
+  artifactKey: Guid(aa2670a4e7c366946a3397330117d659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieFree.cs using Guid(aa2670a4e7c366946a3397330117d659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad99fae037282cade4c1d7827e90e81') in 0.001174 seconds
+  Import took 0.003011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.596850 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Shaders
+  artifactKey: Guid(184395457a6672944b9183a0dbb28ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders using Guid(184395457a6672944b9183a0dbb28ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16599f3277aa7f5858ea169c1344e4a8') in 0.001245 seconds
+  Import took 0.003221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.519976 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShaderLighting.cginc
+  artifactKey: Guid(2dc637ea7be068d4eabe477f8c6ddf2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShaderLighting.cginc using Guid(2dc637ea7be068d4eabe477f8c6ddf2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b75618556f7bfeaefe9c9359356bce') in 0.002732 seconds
+  Import took 0.004855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.189329 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShader.shader
+  artifactKey: Guid(c77365c5675a2c14bb93b5be8c4aec37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShader.shader using Guid(c77365c5675a2c14bb93b5be8c4aec37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb10bcabcde9cc2968493739127293c') in 0.002441 seconds
+  Import took 0.004198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200123 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShader.shader
+  artifactKey: Guid(c77365c5675a2c14bb93b5be8c4aec37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShader.shader using Guid(c77365c5675a2c14bb93b5be8c4aec37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb10bcabcde9cc2968493739127293c') in 0.001335 seconds
+  Import took 0.003235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.444776 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy
+  artifactKey: Guid(e99a6d9dc5b7d9d4c9513aa1ab85c6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy using Guid(e99a6d9dc5b7d9d4c9513aa1ab85c6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bfb4b4f0f8cd5f33bd7130e315678c8') in 0.001171 seconds
+  Import took 0.003089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.787311 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy/CelShader.shader
+  artifactKey: Guid(b148589e47d02de4c9a7e8720f07a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy/CelShader.shader using Guid(b148589e47d02de4c9a7e8720f07a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f3c1fbebb4177d5cf73e8b1013d3bd') in 0.001343 seconds
+  Import took 0.003187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020867 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy/CelShader.shader
+  artifactKey: Guid(b148589e47d02de4c9a7e8720f07a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy/CelShader.shader using Guid(b148589e47d02de4c9a7e8720f07a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f3c1fbebb4177d5cf73e8b1013d3bd') in 0.001317 seconds
+  Import took 0.003412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.205968 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Textures
+  artifactKey: Guid(ad6093b3d8b93174fba7e575ca5ed627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Textures using Guid(ad6093b3d8b93174fba7e575ca5ed627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d663541635752c3055aa8da8033ac9c') in 0.001206 seconds
+  Import took 0.003148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064121 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Textures/free_zombie_body_diffuse.psd
+  artifactKey: Guid(07e331a1e9c6d9d4493d1e1b6996c5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/free_zombie_body_diffuse.psd using Guid(07e331a1e9c6d9d4493d1e1b6996c5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b9787d58da47f515b7983d18c6ebd7') in 0.009108 seconds
+  Import took 0.011483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Textures/free_zombie_head_diffuse.psd
+  artifactKey: Guid(7c55760883dbbb94ba596e38d2de2ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/free_zombie_head_diffuse.psd using Guid(7c55760883dbbb94ba596e38d2de2ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c157c316aa59575af2a842d725409df') in 0.005128 seconds
+  Import took 0.006906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.611484 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp
+  artifactKey: Guid(7ff188c680b59b54d803bf87f4937862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp using Guid(7ff188c680b59b54d803bf87f4937862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305ecb950dc5549a2cf5c049843d7e05') in 0.001138 seconds
+  Import took 0.002948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.812653 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp/Legacy
+  artifactKey: Guid(5fd167a5df8358145bb967a5fd2391fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp/Legacy using Guid(5fd167a5df8358145bb967a5fd2391fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee020f69f13568a4a5863537a767466') in 0.001257 seconds
+  Import took 0.003464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054059 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp/Legacy/sharedTexture_shadowRamp.png
+  artifactKey: Guid(0526973abccf1de4cb69fb62fff5c6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp/Legacy/sharedTexture_shadowRamp.png using Guid(0526973abccf1de4cb69fb62fff5c6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dba7d293b21ae9a9da99d83a9929752') in 0.028614 seconds
+  Import took 0.030764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.760352 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations
+  artifactKey: Guid(11ff4b2e21b8aa64aa52aafea4be4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations using Guid(11ff4b2e21b8aa64aa52aafea4be4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '634b7559e26caf88541144d874550818') in 0.001658 seconds
+  Import took 0.003815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069577 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_attack.FBX
+  artifactKey: Guid(31c1a2a498086974eaa9d10c7f42d24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_attack.FBX using Guid(31c1a2a498086974eaa9d10c7f42d24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb53169361468a75cd571fb58541737') in 0.011816 seconds
+  Import took 0.013994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_forward.FBX
+  artifactKey: Guid(834e65f16fa33e54da306a0c84cb2df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_forward.FBX using Guid(834e65f16fa33e54da306a0c84cb2df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16dbe92a1d519cb0bd5a03d92f183cbc') in 0.003915 seconds
+  Import took 0.005987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_backwards.FBX
+  artifactKey: Guid(170ca84ebfa7e0e42ba6f49d42cd0c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_backwards.FBX using Guid(170ca84ebfa7e0e42ba6f49d42cd0c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c56eab906920dadab12a6c3e8035f6') in 0.003365 seconds
+  Import took 0.005127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_death_standing.FBX
+  artifactKey: Guid(ec13975053ac9b04ba71483c47d8eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_death_standing.FBX using Guid(ec13975053ac9b04ba71483c47d8eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28ffdfdda5068957d6c63d275ffcb922') in 0.003115 seconds
+  Import took 0.004595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_idle.FBX
+  artifactKey: Guid(0aaab721d87c3d84daddd7c7a85d44fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_idle.FBX using Guid(0aaab721d87c3d84daddd7c7a85d44fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c12d539dd9d2650cbe4020f566c78e') in 0.002860 seconds
+  Import took 0.004432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.923517 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers
+  artifactKey: Guid(f5fc19ef1133f6a4ab7dadf5b2f61d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers using Guid(f5fc19ef1133f6a4ab7dadf5b2f61d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5b2549bb053fac4f6bd3ab1ac1341f') in 0.001596 seconds
+  Import took 0.003776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.780285 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Materials
+  artifactKey: Guid(b23951217ab257b4bb9ca89398cfba76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Materials using Guid(b23951217ab257b4bb9ca89398cfba76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8e273160de27666673d783c54c7df7') in 0.001413 seconds
+  Import took 0.003598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.373819 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers/FreeZombieController.controller
+  artifactKey: Guid(c929656c07909194ab8a5cd79f5f371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers/FreeZombieController.controller using Guid(c929656c07909194ab8a5cd79f5f371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b3bae93cc40a5ca0de14ce0ab29f9a') in 0.005798 seconds
+  Import took 0.008185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000699 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers/FreeZombieController.controller
+  artifactKey: Guid(c929656c07909194ab8a5cd79f5f371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers/FreeZombieController.controller using Guid(c929656c07909194ab8a5cd79f5f371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b3bae93cc40a5ca0de14ce0ab29f9a') in 0.004166 seconds
+  Import took 0.005889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.320386 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile
+  artifactKey: Guid(b9b12f5e747e2ca43a09ae362dadd412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile using Guid(b9b12f5e747e2ca43a09ae362dadd412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc90f37ae6cea9a6576d8cd3301d753') in 0.001366 seconds
+  Import took 0.003277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054148 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile/free_zombie_body_low.mat
+  artifactKey: Guid(a67006042548d954e9e630c46922dc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile/free_zombie_body_low.mat using Guid(a67006042548d954e9e630c46922dc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74afd89becdc4ab769faac2ac0d8a1c1') in 0.018722 seconds
+  Import took 0.020870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile/free_zombie_head_low.mat
+  artifactKey: Guid(a8082d046318c0a4bb0162606364b597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile/free_zombie_head_low.mat using Guid(a8082d046318c0a4bb0162606364b597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ffbf49fb27d306f73d0331ac6a5a81e') in 0.006091 seconds
+  Import took 0.007893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.458339 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Models
+  artifactKey: Guid(e49518ac9f5dc65498ba5a8f8aa38300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Models using Guid(e49518ac9f5dc65498ba5a8f8aa38300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f47d6a7c2d22b1358c59ed13e6061ba') in 0.001181 seconds
+  Import took 0.003013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060016 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Models/Character_Pack_Zombie_Sample.FBX
+  artifactKey: Guid(8c53cffd52097cf4582f0a090c9a833e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Models/Character_Pack_Zombie_Sample.FBX using Guid(8c53cffd52097cf4582f0a090c9a833e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe62a222e6e79bf2b7bdb3d0bd3b86f') in 0.183721 seconds
+  Import took 0.186020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.913356 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Sword_12.FBX
+  artifactKey: Guid(fc9c3be43ccf0d04da42bfe4759dfbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Sword_12.FBX using Guid(fc9c3be43ccf0d04da42bfe4759dfbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30d0eb45710ae8e191f43f9294c5b1c') in 0.011140 seconds
+  Import took 0.013519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Sword_12.mat
+  artifactKey: Guid(456e02623a6d0ce40b393cb00214245e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Sword_12.mat using Guid(456e02623a6d0ce40b393cb00214245e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54356b2e8f065273721f0d052eb74356') in 0.051849 seconds
+  Import took 0.053577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat
+  artifactKey: Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat using Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9bcb3300a6f587852a5834a3fd6270e') in 0.007304 seconds
+  Import took 0.009549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat
+  artifactKey: Guid(5f2c2ee5f84253b41b3ff0c1aafcc515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat using Guid(5f2c2ee5f84253b41b3ff0c1aafcc515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1cd938f738395c6a02f24e91cdc8596') in 0.005147 seconds
+  Import took 0.007182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067597 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality/free_zombie_head.mat
+  artifactKey: Guid(9fb1835b082c0a54e90f8fee1335b69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality/free_zombie_head.mat using Guid(9fb1835b082c0a54e90f8fee1335b69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e3cdfdd5766b47a7e5859e8faae547') in 0.093606 seconds
+  Import took 0.095929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146095 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality/free_zombie_body.mat
+  artifactKey: Guid(505c715e0fdb50f4fb8e906ce5e8d288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality/free_zombie_body.mat using Guid(505c715e0fdb50f4fb8e906ce5e8d288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2022d1f866266d50b80f7a2d431792e0') in 0.005921 seconds
+  Import took 0.008134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049545 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_01.FBX
+  artifactKey: Guid(9758fdb7e722ee44287681dc667ee36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_01.FBX using Guid(9758fdb7e722ee44287681dc667ee36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de52f07389c5b11b3aeccccb9e29f8c') in 0.027051 seconds
+  Import took 0.029355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Ekard.mat
+  artifactKey: Guid(9f43f4112af6f3b4b8227b9b7c3ca8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Ekard.mat using Guid(9f43f4112af6f3b4b8227b9b7c3ca8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918fbf9bc74a9b53f60784e3abdb0c57') in 0.085493 seconds
+  Import took 0.087251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.795423 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_BattleIdle_01.fbx
+  artifactKey: Guid(b5610fb212a268243906cd0023ba0c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_BattleIdle_01.fbx using Guid(b5610fb212a268243906cd0023ba0c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3c69c8b7322a5bc39c3000eb451685') in 0.018308 seconds
+  Import took 0.020625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_02.fbx
+  artifactKey: Guid(c1e3e83c912d822479af4fa1aae5eb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_02.fbx using Guid(c1e3e83c912d822479af4fa1aae5eb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be77483e9722313529985e10f5e5eb17') in 0.018486 seconds
+  Import took 0.020743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.596867 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Run_01.fbx
+  artifactKey: Guid(70f750aa77c120e4eb96fd01f061941d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Run_01.fbx using Guid(70f750aa77c120e4eb96fd01f061941d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '264f8ad647f310bdeae94a7b84b7ecba') in 0.015571 seconds
+  Import took 0.017929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Debuff_01.fbx
+  artifactKey: Guid(e6c9b4210a146794792aff515491ba16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Debuff_01.fbx using Guid(e6c9b4210a146794792aff515491ba16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d02b4d5686701467ef1afc6539ad46a') in 0.017648 seconds
+  Import took 0.019928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.294838 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Stun_01.fbx
+  artifactKey: Guid(0e6f6c073ade8d240bcdf45767f1b953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Stun_01.fbx using Guid(0e6f6c073ade8d240bcdf45767f1b953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd016aae513954ae041b293a0d991c93') in 0.016072 seconds
+  Import took 0.018433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Skill_01.fbx
+  artifactKey: Guid(74a0e06cc2ddac34f9a7187a91b08317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Skill_01.fbx using Guid(74a0e06cc2ddac34f9a7187a91b08317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593187ab41bfbfa9d484f6b674204efc') in 0.017352 seconds
+  Import took 0.019671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063111 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_01_h.fbx
+  artifactKey: Guid(b80941903823f8c42bf43cfc39abbafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_01_h.fbx using Guid(b80941903823f8c42bf43cfc39abbafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8d548a89968508fa5896d769da6edd0') in 0.015985 seconds
+  Import took 0.018289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Debuff_01_h.fbx
+  artifactKey: Guid(310da346f97883840a3c37234578f103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Debuff_01_h.fbx using Guid(310da346f97883840a3c37234578f103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8563da2d873e5980a647792dbabd8c7f') in 0.017590 seconds
+  Import took 0.019731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.903664 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_BattleIdle_01_h.fbx
+  artifactKey: Guid(f663597c55671244693d9ec3cc1ddc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_BattleIdle_01_h.fbx using Guid(f663597c55671244693d9ec3cc1ddc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e40f2df9d97dfbd8fe57e5f0170acbf') in 0.015050 seconds
+  Import took 0.017329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_02_h.fbx
+  artifactKey: Guid(3d25bf847979e0e45bfec9c4c2a1f02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_02_h.fbx using Guid(3d25bf847979e0e45bfec9c4c2a1f02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab33d4116500591c9f679a7589330f27') in 0.017650 seconds
+  Import took 0.019614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070174 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Run_01_h.fbx
+  artifactKey: Guid(0b589af0c1173b54e9123368661752d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Run_01_h.fbx using Guid(0b589af0c1173b54e9123368661752d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a14967acc1c56e4cd51cc49ae8f6f0') in 0.016562 seconds
+  Import took 0.019009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_h.FBX
+  artifactKey: Guid(9c772f8fd5a14c54fbcb4dd0b4cbaef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_h.FBX using Guid(9c772f8fd5a14c54fbcb4dd0b4cbaef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff6b549fea58a4eaaba5364a5679e98') in 0.016586 seconds
+  Import took 0.019009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.350361 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Stun_01_h.fbx
+  artifactKey: Guid(13b008e8fbc44f84b99b1bc0663ef579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Stun_01_h.fbx using Guid(13b008e8fbc44f84b99b1bc0663ef579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce5091551cd8a629a3766f2ee813815') in 0.014660 seconds
+  Import took 0.016945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Skill_01_h.fbx
+  artifactKey: Guid(d18986977191f8c44822f215704a6902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Skill_01_h.fbx using Guid(d18986977191f8c44822f215704a6902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e17aad55ace05969e178f7b0190a832') in 0.016377 seconds
+  Import took 0.018988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070407 seconds.
+  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard.FBX
+  artifactKey: Guid(b3ac7d864261a9746b9ce84cdf06505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard.FBX using Guid(b3ac7d864261a9746b9ce84cdf06505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cffdc3e94fce4db92f72303fc7447bd9') in 0.016416 seconds
+  Import took 0.018766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 537.514352 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(94095eca339ef4adb84aaff27d12a155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(94095eca339ef4adb84aaff27d12a155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a76086e8ec7e5061d013bf2649ec88') in 0.001141 seconds
+  Import took 0.003386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.149035 seconds.
+  path: Assets/Scripts/PlayerControllerRigidBody.cs
+  artifactKey: Guid(ee23fb149467f432d8c334fcfde895d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControllerRigidBody.cs using Guid(ee23fb149467f432d8c334fcfde895d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1745d4e25ba1582f9c6159531831d668') in 0.001219 seconds
+  Import took 0.003311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Scripts/PlayerControllerRigidBody.cs
+  artifactKey: Guid(ee23fb149467f432d8c334fcfde895d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControllerRigidBody.cs using Guid(ee23fb149467f432d8c334fcfde895d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1745d4e25ba1582f9c6159531831d668') in 0.001280 seconds
+  Import took 0.003633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.721100 seconds.
+  path: Assets/Scripts/PlayerControllerTransform.cs
+  artifactKey: Guid(8b0f7ed962968459d9f55862d4248fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControllerTransform.cs using Guid(8b0f7ed962968459d9f55862d4248fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ce8821520f32c4381916c52ddfef77') in 0.001175 seconds
+  Import took 0.003061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Scripts/PlayerControllerTransform.cs
+  artifactKey: Guid(8b0f7ed962968459d9f55862d4248fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControllerTransform.cs using Guid(8b0f7ed962968459d9f55862d4248fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ce8821520f32c4381916c52ddfef77') in 0.001136 seconds
+  Import took 0.003206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.343524 seconds.
+  path: Assets/Scripts/Chase.cs
+  artifactKey: Guid(f7589f3cb0503304c8204e52c8d5fd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Chase.cs using Guid(f7589f3cb0503304c8204e52c8d5fd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9930798e7c699164276b6b43ba1626f6') in 0.001281 seconds
+  Import took 0.003580 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000472 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.641 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1260 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.6 MB.
+System memory in use after: 81.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1769.
+Total: 1.603000 ms (FindLiveObjects: 0.166200 ms CreateObjectMapping: 0.030000 ms MarkObjects: 1.385000 ms  DeleteObjects: 0.021100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
