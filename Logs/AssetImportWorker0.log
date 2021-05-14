@@ -15,11 +15,11 @@ D:/Previous Projects/Unity Projects/Unity Projects/Mobile Testgame/testgame
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61100
+56143
 Successfully changed project path to: D:/Previous Projects/Unity Projects/Unity Projects/Mobile Testgame/testgame
 D:/Previous Projects/Unity Projects/Unity Projects/Mobile Testgame/testgame
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 21.95 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 29.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.6f1 (338bb68529b2)
 [Subsystems] Discovering subsystems at path D:/Installed Applications/Unity/Editor/Unity 2020.3.6/Editor/Data/Resources/UnitySubsystems
@@ -35,631 +35,803 @@ Initialize mono
 Mono path[0] = 'D:/Installed Applications/Unity/Editor/Unity 2020.3.6/Editor/Data/Managed'
 Mono path[1] = 'D:/Installed Applications/Unity/Editor/Unity 2020.3.6/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Installed Applications/Unity/Editor/Unity 2020.3.6/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56776
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Installed Applications/Unity/Editor/Unity 2020.3.6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000796 seconds.
+Registered in 0.095090 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 22.94 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 23.79 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.682 seconds
+- Completed reload, in  2.760 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000415 seconds.
+Registered in 0.046449 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.689 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1269 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.7 MB.
+System memory in use after: 77.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1734.
+Total: 1.871000 ms (FindLiveObjects: 0.156700 ms CreateObjectMapping: 0.032900 ms MarkObjects: 1.613700 ms  DeleteObjects: 0.066600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base
+  artifactKey: Guid(ff96ec8e6bf101c4289d8e01213f420b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base using Guid(ff96ec8e6bf101c4289d8e01213f420b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0fb1a285c98ce4b984e74af672ed4a') in 0.046790 seconds
+  Import took 0.062921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.138684 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/Mobile
+  artifactKey: Guid(795770296542fe340afe4994384ca9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/Mobile using Guid(795770296542fe340afe4994384ca9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f1f631093d6956aef957ace1b3cba9') in 0.032079 seconds
+  Import took 0.034062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050968 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/Mobile/MobileFreeZombie.prefab
+  artifactKey: Guid(e45a69c421144304c8d8176026d3fd7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/Mobile/MobileFreeZombie.prefab using Guid(e45a69c421144304c8d8176026d3fd7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a7ca4b6ddf8a46e9655523e1d10a66') in 0.186780 seconds
+  Import took 0.189178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.235967 seconds.
+  path: Assets/Scripts/EnemyController.cs
+  artifactKey: Guid(e2b477c0d784c3c4f8ee2a91ad6064ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyController.cs using Guid(e2b477c0d784c3c4f8ee2a91ad6064ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fef28dd6812eca1efe16215acfcf10a') in 0.007113 seconds
+  Import took 0.009350 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.645 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1260 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 94.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1746.
+Total: 1.534800 ms (FindLiveObjects: 0.180900 ms CreateObjectMapping: 0.029900 ms MarkObjects: 1.310400 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.632 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1260 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 94.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1749.
+Total: 1.640100 ms (FindLiveObjects: 0.176800 ms CreateObjectMapping: 0.029300 ms MarkObjects: 1.417200 ms  DeleteObjects: 0.015700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000471 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.621 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1260 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 94.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1752.
+Total: 1.608000 ms (FindLiveObjects: 0.160300 ms CreateObjectMapping: 0.026600 ms MarkObjects: 1.404800 ms  DeleteObjects: 0.015600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 375.778165 seconds.
+  path: Assets/Scripts/PlayerManager.cs
+  artifactKey: Guid(242aec86ca59dcc419184ade9a1d489e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerManager.cs using Guid(242aec86ca59dcc419184ade9a1d489e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd205e3ce01da75de988f876557bed3be') in 0.007260 seconds
+  Import took 0.009384 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000408 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.615 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1756.
+Total: 1.488100 ms (FindLiveObjects: 0.163000 ms CreateObjectMapping: 0.027500 ms MarkObjects: 1.286700 ms  DeleteObjects: 0.010200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.789238 seconds.
+  path: Assets/Scripts/AI Scripts
+  artifactKey: Guid(73c639f0cf629f245b8588aa3a617619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI Scripts using Guid(73c639f0cf629f245b8588aa3a617619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd12a47c33e0a6772df83725f2b81acb') in 0.008781 seconds
+  Import took 0.010915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.562886 seconds.
+  path: Assets/Scripts/EnemyController.cs
+  artifactKey: Guid(e2b477c0d784c3c4f8ee2a91ad6064ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyController.cs using Guid(e2b477c0d784c3c4f8ee2a91ad6064ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c6c06cef8c1fda1a2b0eed7cb7089a0') in 0.005129 seconds
+  Import took 0.007456 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000395 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.630 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1759.
+Total: 1.636600 ms (FindLiveObjects: 0.224000 ms CreateObjectMapping: 0.027100 ms MarkObjects: 1.370900 ms  DeleteObjects: 0.013800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000471 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.619 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1762.
+Total: 1.566700 ms (FindLiveObjects: 0.179600 ms CreateObjectMapping: 0.035100 ms MarkObjects: 1.340600 ms  DeleteObjects: 0.010500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000507 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.674 seconds
+- Completed reload, in  0.626 seconds
 Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1269 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.5 MB.
-System memory in use after: 64.6 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1717.
-Total: 1.956100 ms (FindLiveObjects: 0.184600 ms CreateObjectMapping: 0.042500 ms MarkObjects: 1.655600 ms  DeleteObjects: 0.072400 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Supercyan Character Pack Zombie Sample
-  artifactKey: Guid(2c38f4dca43802647959ac29ebf3e679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample using Guid(2c38f4dca43802647959ac29ebf3e679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4b1784c65e6d49670fc1dbec8b0e02') in 0.003600 seconds
-  Import took 0.005491 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 159.280601 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs
-  artifactKey: Guid(32fcfbac277f4a9469bbe5363f81f911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs using Guid(32fcfbac277f4a9469bbe5363f81f911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915ca2a84f6bd138af62e7e8c052a9fe') in 0.001561 seconds
-  Import took 0.003962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.290102 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement
-  artifactKey: Guid(e77aed1e4c0701c4fa932f1e9c908208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement using Guid(e77aed1e4c0701c4fa932f1e9c908208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31cb4cf97c02b4687b7a5010329027b4') in 0.001213 seconds
-  Import took 0.003006 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.013617 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile
-  artifactKey: Guid(69b726a217b61b2409e8a9e976867515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile using Guid(69b726a217b61b2409e8a9e976867515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0e0166ca39a831eaf35260e704bb4b') in 0.001624 seconds
-  Import took 0.004118 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.053468 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile/MobileFreeZombieSimpleMovement.prefab
-  artifactKey: Guid(2869f50f08793594889040a0ec4b691e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile/MobileFreeZombieSimpleMovement.prefab using Guid(2869f50f08793594889040a0ec4b691e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc0fd570197a97df0e14b4f98d24205') in 0.179075 seconds
-  Import took 0.181648 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 239.156680 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scenes
-  artifactKey: Guid(8e2b405c7e097ab4fba3124673ee638f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes using Guid(8e2b405c7e097ab4fba3124673ee638f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35bec5263396c610027fe93c197d0e4f') in 0.001920 seconds
-  Import took 0.005339 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.993998 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene.unity
-  artifactKey: Guid(9638f4fb02de02f49ae57e7f5e2373df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene.unity using Guid(9638f4fb02de02f49ae57e7f5e2373df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00195c422f2cb7b291cab0cd6ac68e5') in 0.001899 seconds
-  Import took 0.003828 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 33.768184 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene
-  artifactKey: Guid(d382998a341c8384c9283267dafdc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene using Guid(d382998a341c8384c9283267dafdc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5787d796dcccd8cc12792382540ab04') in 0.001494 seconds
-  Import took 0.003707 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.070259 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene/LightingData.asset
-  artifactKey: Guid(d275f529a3c5d2949a58e5d126833d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene/LightingData.asset using Guid(d275f529a3c5d2949a58e5d126833d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ad6dcde3c4a60a4d0f492ef5c485e8') in 0.003049 seconds
-  Import took 0.004866 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.018957 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene/ReflectionProbe-0.exr
-  artifactKey: Guid(43c9b42a3c4a3cf47af933aa55693c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scenes/DemoScene/ReflectionProbe-0.exr using Guid(43c9b42a3c4a3cf47af933aa55693c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d1014c45e395d721a35d8290b1cfbc') in 0.090618 seconds
-  Import took 0.092483 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.852594 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scripts
-  artifactKey: Guid(2011d135dfc132b42b7cae04447cb1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts using Guid(2011d135dfc132b42b7cae04447cb1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c45ed1151723c2c9f14b959e208cb5a') in 0.001570 seconds
-  Import took 0.003606 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.538518 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCameraLogic.cs
-  artifactKey: Guid(90ded75707e6bc14a9c7a555fceb1d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCameraLogic.cs using Guid(90ded75707e6bc14a9c7a555fceb1d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca7039f71e24d311b5e8135167e7a70') in 0.003053 seconds
-  Import took 0.004960 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.610879 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs
-  artifactKey: Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs using Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b193587a478d91a3d93afa901cbde7') in 0.001227 seconds
-  Import took 0.002965 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001874 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs
-  artifactKey: Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs using Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b193587a478d91a3d93afa901cbde7') in 0.001053 seconds
-  Import took 0.002781 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.819898 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieFree.cs
-  artifactKey: Guid(aa2670a4e7c366946a3397330117d659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieFree.cs using Guid(aa2670a4e7c366946a3397330117d659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad99fae037282cade4c1d7827e90e81') in 0.001174 seconds
-  Import took 0.003011 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.596850 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Shaders
-  artifactKey: Guid(184395457a6672944b9183a0dbb28ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders using Guid(184395457a6672944b9183a0dbb28ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16599f3277aa7f5858ea169c1344e4a8') in 0.001245 seconds
-  Import took 0.003221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.519976 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShaderLighting.cginc
-  artifactKey: Guid(2dc637ea7be068d4eabe477f8c6ddf2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShaderLighting.cginc using Guid(2dc637ea7be068d4eabe477f8c6ddf2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b75618556f7bfeaefe9c9359356bce') in 0.002732 seconds
-  Import took 0.004855 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.189329 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShader.shader
-  artifactKey: Guid(c77365c5675a2c14bb93b5be8c4aec37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShader.shader using Guid(c77365c5675a2c14bb93b5be8c4aec37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb10bcabcde9cc2968493739127293c') in 0.002441 seconds
-  Import took 0.004198 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.200123 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShader.shader
-  artifactKey: Guid(c77365c5675a2c14bb93b5be8c4aec37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/SupercyanShader.shader using Guid(c77365c5675a2c14bb93b5be8c4aec37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb10bcabcde9cc2968493739127293c') in 0.001335 seconds
-  Import took 0.003235 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.444776 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy
-  artifactKey: Guid(e99a6d9dc5b7d9d4c9513aa1ab85c6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy using Guid(e99a6d9dc5b7d9d4c9513aa1ab85c6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bfb4b4f0f8cd5f33bd7130e315678c8') in 0.001171 seconds
-  Import took 0.003089 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.787311 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy/CelShader.shader
-  artifactKey: Guid(b148589e47d02de4c9a7e8720f07a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy/CelShader.shader using Guid(b148589e47d02de4c9a7e8720f07a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f3c1fbebb4177d5cf73e8b1013d3bd') in 0.001343 seconds
-  Import took 0.003187 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020867 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy/CelShader.shader
-  artifactKey: Guid(b148589e47d02de4c9a7e8720f07a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Shaders/Legacy/CelShader.shader using Guid(b148589e47d02de4c9a7e8720f07a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f3c1fbebb4177d5cf73e8b1013d3bd') in 0.001317 seconds
-  Import took 0.003412 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.205968 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Textures
-  artifactKey: Guid(ad6093b3d8b93174fba7e575ca5ed627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Textures using Guid(ad6093b3d8b93174fba7e575ca5ed627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d663541635752c3055aa8da8033ac9c') in 0.001206 seconds
-  Import took 0.003148 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.064121 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Textures/free_zombie_body_diffuse.psd
-  artifactKey: Guid(07e331a1e9c6d9d4493d1e1b6996c5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/free_zombie_body_diffuse.psd using Guid(07e331a1e9c6d9d4493d1e1b6996c5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b9787d58da47f515b7983d18c6ebd7') in 0.009108 seconds
-  Import took 0.011483 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000139 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Textures/free_zombie_head_diffuse.psd
-  artifactKey: Guid(7c55760883dbbb94ba596e38d2de2ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/free_zombie_head_diffuse.psd using Guid(7c55760883dbbb94ba596e38d2de2ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c157c316aa59575af2a842d725409df') in 0.005128 seconds
-  Import took 0.006906 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.611484 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp
-  artifactKey: Guid(7ff188c680b59b54d803bf87f4937862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp using Guid(7ff188c680b59b54d803bf87f4937862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305ecb950dc5549a2cf5c049843d7e05') in 0.001138 seconds
-  Import took 0.002948 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.812653 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp/Legacy
-  artifactKey: Guid(5fd167a5df8358145bb967a5fd2391fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp/Legacy using Guid(5fd167a5df8358145bb967a5fd2391fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee020f69f13568a4a5863537a767466') in 0.001257 seconds
-  Import took 0.003464 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.054059 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp/Legacy/sharedTexture_shadowRamp.png
-  artifactKey: Guid(0526973abccf1de4cb69fb62fff5c6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Textures/Ramp/Legacy/sharedTexture_shadowRamp.png using Guid(0526973abccf1de4cb69fb62fff5c6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dba7d293b21ae9a9da99d83a9929752') in 0.028614 seconds
-  Import took 0.030764 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.760352 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Animations
-  artifactKey: Guid(11ff4b2e21b8aa64aa52aafea4be4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Animations using Guid(11ff4b2e21b8aa64aa52aafea4be4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '634b7559e26caf88541144d874550818') in 0.001658 seconds
-  Import took 0.003815 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.069577 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_attack.FBX
-  artifactKey: Guid(31c1a2a498086974eaa9d10c7f42d24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_attack.FBX using Guid(31c1a2a498086974eaa9d10c7f42d24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb53169361468a75cd571fb58541737') in 0.011816 seconds
-  Import took 0.013994 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_forward.FBX
-  artifactKey: Guid(834e65f16fa33e54da306a0c84cb2df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_forward.FBX using Guid(834e65f16fa33e54da306a0c84cb2df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16dbe92a1d519cb0bd5a03d92f183cbc') in 0.003915 seconds
-  Import took 0.005987 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_backwards.FBX
-  artifactKey: Guid(170ca84ebfa7e0e42ba6f49d42cd0c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_backwards.FBX using Guid(170ca84ebfa7e0e42ba6f49d42cd0c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c56eab906920dadab12a6c3e8035f6') in 0.003365 seconds
-  Import took 0.005127 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000115 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_death_standing.FBX
-  artifactKey: Guid(ec13975053ac9b04ba71483c47d8eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_death_standing.FBX using Guid(ec13975053ac9b04ba71483c47d8eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28ffdfdda5068957d6c63d275ffcb922') in 0.003115 seconds
-  Import took 0.004595 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_idle.FBX
-  artifactKey: Guid(0aaab721d87c3d84daddd7c7a85d44fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_idle.FBX using Guid(0aaab721d87c3d84daddd7c7a85d44fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c12d539dd9d2650cbe4020f566c78e') in 0.002860 seconds
-  Import took 0.004432 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.923517 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers
-  artifactKey: Guid(f5fc19ef1133f6a4ab7dadf5b2f61d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers using Guid(f5fc19ef1133f6a4ab7dadf5b2f61d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5b2549bb053fac4f6bd3ab1ac1341f') in 0.001596 seconds
-  Import took 0.003776 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.780285 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Materials
-  artifactKey: Guid(b23951217ab257b4bb9ca89398cfba76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Materials using Guid(b23951217ab257b4bb9ca89398cfba76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8e273160de27666673d783c54c7df7') in 0.001413 seconds
-  Import took 0.003598 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.373819 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers/FreeZombieController.controller
-  artifactKey: Guid(c929656c07909194ab8a5cd79f5f371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers/FreeZombieController.controller using Guid(c929656c07909194ab8a5cd79f5f371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b3bae93cc40a5ca0de14ce0ab29f9a') in 0.005798 seconds
-  Import took 0.008185 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000699 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers/FreeZombieController.controller
-  artifactKey: Guid(c929656c07909194ab8a5cd79f5f371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/AnimatorControllers/FreeZombieController.controller using Guid(c929656c07909194ab8a5cd79f5f371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b3bae93cc40a5ca0de14ce0ab29f9a') in 0.004166 seconds
-  Import took 0.005889 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 130.320386 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile
-  artifactKey: Guid(b9b12f5e747e2ca43a09ae362dadd412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile using Guid(b9b12f5e747e2ca43a09ae362dadd412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc90f37ae6cea9a6576d8cd3301d753') in 0.001366 seconds
-  Import took 0.003277 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.054148 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile/free_zombie_body_low.mat
-  artifactKey: Guid(a67006042548d954e9e630c46922dc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile/free_zombie_body_low.mat using Guid(a67006042548d954e9e630c46922dc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74afd89becdc4ab769faac2ac0d8a1c1') in 0.018722 seconds
-  Import took 0.020870 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000423 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile/free_zombie_head_low.mat
-  artifactKey: Guid(a8082d046318c0a4bb0162606364b597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/Mobile/free_zombie_head_low.mat using Guid(a8082d046318c0a4bb0162606364b597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ffbf49fb27d306f73d0331ac6a5a81e') in 0.006091 seconds
-  Import took 0.007893 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.458339 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Models
-  artifactKey: Guid(e49518ac9f5dc65498ba5a8f8aa38300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Models using Guid(e49518ac9f5dc65498ba5a8f8aa38300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f47d6a7c2d22b1358c59ed13e6061ba') in 0.001181 seconds
-  Import took 0.003013 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.060016 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Models/Character_Pack_Zombie_Sample.FBX
-  artifactKey: Guid(8c53cffd52097cf4582f0a090c9a833e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Models/Character_Pack_Zombie_Sample.FBX using Guid(8c53cffd52097cf4582f0a090c9a833e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe62a222e6e79bf2b7bdb3d0bd3b86f') in 0.183721 seconds
-  Import took 0.186020 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 125.913356 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Sword_12.FBX
-  artifactKey: Guid(fc9c3be43ccf0d04da42bfe4759dfbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Sword_12.FBX using Guid(fc9c3be43ccf0d04da42bfe4759dfbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30d0eb45710ae8e191f43f9294c5b1c') in 0.011140 seconds
-  Import took 0.013519 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000143 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Sword_12.mat
-  artifactKey: Guid(456e02623a6d0ce40b393cb00214245e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Sword_12.mat using Guid(456e02623a6d0ce40b393cb00214245e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54356b2e8f065273721f0d052eb74356') in 0.051849 seconds
-  Import took 0.053577 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat
-  artifactKey: Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_Texture_01.mat using Guid(93caadf4359ae8143aad35b3145d31af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9bcb3300a6f587852a5834a3fd6270e') in 0.007304 seconds
-  Import took 0.009549 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat
-  artifactKey: Guid(5f2c2ee5f84253b41b3ff0c1aafcc515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat using Guid(5f2c2ee5f84253b41b3ff0c1aafcc515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1cd938f738395c6a02f24e91cdc8596') in 0.005147 seconds
-  Import took 0.007182 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.067597 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality/free_zombie_head.mat
-  artifactKey: Guid(9fb1835b082c0a54e90f8fee1335b69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality/free_zombie_head.mat using Guid(9fb1835b082c0a54e90f8fee1335b69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e3cdfdd5766b47a7e5859e8faae547') in 0.093606 seconds
-  Import took 0.095929 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.146095 seconds.
-  path: Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality/free_zombie_body.mat
-  artifactKey: Guid(505c715e0fdb50f4fb8e906ce5e8d288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality/free_zombie_body.mat using Guid(505c715e0fdb50f4fb8e906ce5e8d288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2022d1f866266d50b80f7a2d431792e0') in 0.005921 seconds
-  Import took 0.008134 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.049545 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_01.FBX
-  artifactKey: Guid(9758fdb7e722ee44287681dc667ee36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_01.FBX using Guid(9758fdb7e722ee44287681dc667ee36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de52f07389c5b11b3aeccccb9e29f8c') in 0.027051 seconds
-  Import took 0.029355 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Ekard.mat
-  artifactKey: Guid(9f43f4112af6f3b4b8227b9b7c3ca8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Materials/Ekard.mat using Guid(9f43f4112af6f3b4b8227b9b7c3ca8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918fbf9bc74a9b53f60784e3abdb0c57') in 0.085493 seconds
-  Import took 0.087251 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.795423 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_BattleIdle_01.fbx
-  artifactKey: Guid(b5610fb212a268243906cd0023ba0c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_BattleIdle_01.fbx using Guid(b5610fb212a268243906cd0023ba0c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3c69c8b7322a5bc39c3000eb451685') in 0.018308 seconds
-  Import took 0.020625 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_02.fbx
-  artifactKey: Guid(c1e3e83c912d822479af4fa1aae5eb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Attack_02.fbx using Guid(c1e3e83c912d822479af4fa1aae5eb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be77483e9722313529985e10f5e5eb17') in 0.018486 seconds
-  Import took 0.020743 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.596867 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Run_01.fbx
-  artifactKey: Guid(70f750aa77c120e4eb96fd01f061941d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Run_01.fbx using Guid(70f750aa77c120e4eb96fd01f061941d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '264f8ad647f310bdeae94a7b84b7ecba') in 0.015571 seconds
-  Import took 0.017929 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Debuff_01.fbx
-  artifactKey: Guid(e6c9b4210a146794792aff515491ba16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Debuff_01.fbx using Guid(e6c9b4210a146794792aff515491ba16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d02b4d5686701467ef1afc6539ad46a') in 0.017648 seconds
-  Import took 0.019928 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.294838 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Stun_01.fbx
-  artifactKey: Guid(0e6f6c073ade8d240bcdf45767f1b953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Stun_01.fbx using Guid(0e6f6c073ade8d240bcdf45767f1b953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd016aae513954ae041b293a0d991c93') in 0.016072 seconds
-  Import took 0.018433 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Skill_01.fbx
-  artifactKey: Guid(74a0e06cc2ddac34f9a7187a91b08317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard_Skill_01.fbx using Guid(74a0e06cc2ddac34f9a7187a91b08317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593187ab41bfbfa9d484f6b674204efc') in 0.017352 seconds
-  Import took 0.019671 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.063111 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_01_h.fbx
-  artifactKey: Guid(b80941903823f8c42bf43cfc39abbafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_01_h.fbx using Guid(b80941903823f8c42bf43cfc39abbafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8d548a89968508fa5896d769da6edd0') in 0.015985 seconds
-  Import took 0.018289 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Debuff_01_h.fbx
-  artifactKey: Guid(310da346f97883840a3c37234578f103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Debuff_01_h.fbx using Guid(310da346f97883840a3c37234578f103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8563da2d873e5980a647792dbabd8c7f') in 0.017590 seconds
-  Import took 0.019731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.903664 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_BattleIdle_01_h.fbx
-  artifactKey: Guid(f663597c55671244693d9ec3cc1ddc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_BattleIdle_01_h.fbx using Guid(f663597c55671244693d9ec3cc1ddc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e40f2df9d97dfbd8fe57e5f0170acbf') in 0.015050 seconds
-  Import took 0.017329 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_02_h.fbx
-  artifactKey: Guid(3d25bf847979e0e45bfec9c4c2a1f02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Attack_02_h.fbx using Guid(3d25bf847979e0e45bfec9c4c2a1f02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab33d4116500591c9f679a7589330f27') in 0.017650 seconds
-  Import took 0.019614 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.070174 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Run_01_h.fbx
-  artifactKey: Guid(0b589af0c1173b54e9123368661752d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Run_01_h.fbx using Guid(0b589af0c1173b54e9123368661752d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a14967acc1c56e4cd51cc49ae8f6f0') in 0.016562 seconds
-  Import took 0.019009 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_h.FBX
-  artifactKey: Guid(9c772f8fd5a14c54fbcb4dd0b4cbaef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_h.FBX using Guid(9c772f8fd5a14c54fbcb4dd0b4cbaef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff6b549fea58a4eaaba5364a5679e98') in 0.016586 seconds
-  Import took 0.019009 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.350361 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Stun_01_h.fbx
-  artifactKey: Guid(13b008e8fbc44f84b99b1bc0663ef579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Stun_01_h.fbx using Guid(13b008e8fbc44f84b99b1bc0663ef579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce5091551cd8a629a3766f2ee813815') in 0.014660 seconds
-  Import took 0.016945 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Skill_01_h.fbx
-  artifactKey: Guid(d18986977191f8c44822f215704a6902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Humanoid/Ekard_Skill_01_h.fbx using Guid(d18986977191f8c44822f215704a6902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e17aad55ace05969e178f7b0190a832') in 0.016377 seconds
-  Import took 0.018988 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.070407 seconds.
-  path: Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard.FBX
-  artifactKey: Guid(b3ac7d864261a9746b9ce84cdf06505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JJ_Casual RPG Character - 8Ekard v1.1/Models/Generic/Ekard.FBX using Guid(b3ac7d864261a9746b9ce84cdf06505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cffdc3e94fce4db92f72303fc7447bd9') in 0.016416 seconds
-  Import took 0.018766 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 537.514352 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(94095eca339ef4adb84aaff27d12a155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(94095eca339ef4adb84aaff27d12a155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a76086e8ec7e5061d013bf2649ec88') in 0.001141 seconds
-  Import took 0.003386 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.149035 seconds.
-  path: Assets/Scripts/PlayerControllerRigidBody.cs
-  artifactKey: Guid(ee23fb149467f432d8c334fcfde895d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerControllerRigidBody.cs using Guid(ee23fb149467f432d8c334fcfde895d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1745d4e25ba1582f9c6159531831d668') in 0.001219 seconds
-  Import took 0.003311 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000354 seconds.
-  path: Assets/Scripts/PlayerControllerRigidBody.cs
-  artifactKey: Guid(ee23fb149467f432d8c334fcfde895d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerControllerRigidBody.cs using Guid(ee23fb149467f432d8c334fcfde895d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1745d4e25ba1582f9c6159531831d668') in 0.001280 seconds
-  Import took 0.003633 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.721100 seconds.
-  path: Assets/Scripts/PlayerControllerTransform.cs
-  artifactKey: Guid(8b0f7ed962968459d9f55862d4248fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerControllerTransform.cs using Guid(8b0f7ed962968459d9f55862d4248fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ce8821520f32c4381916c52ddfef77') in 0.001175 seconds
-  Import took 0.003061 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000323 seconds.
-  path: Assets/Scripts/PlayerControllerTransform.cs
-  artifactKey: Guid(8b0f7ed962968459d9f55862d4248fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerControllerTransform.cs using Guid(8b0f7ed962968459d9f55862d4248fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ce8821520f32c4381916c52ddfef77') in 0.001136 seconds
-  Import took 0.003206 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 44.343524 seconds.
-  path: Assets/Scripts/Chase.cs
-  artifactKey: Guid(f7589f3cb0503304c8204e52c8d5fd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Chase.cs using Guid(f7589f3cb0503304c8204e52c8d5fd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9930798e7c699164276b6b43ba1626f6') in 0.001281 seconds
-  Import took 0.003580 seconds .
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1765.
+Total: 1.496200 ms (FindLiveObjects: 0.156500 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.297100 ms  DeleteObjects: 0.010900 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000472 seconds.
+Registered in 0.000504 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.641 seconds
+- Completed reload, in  0.609 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1260 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 81.6 MB.
-System memory in use after: 81.7 MB.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1769.
-Total: 1.603000 ms (FindLiveObjects: 0.166200 ms CreateObjectMapping: 0.030000 ms MarkObjects: 1.385000 ms  DeleteObjects: 0.021100 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1768.
+Total: 1.583700 ms (FindLiveObjects: 0.181100 ms CreateObjectMapping: 0.028400 ms MarkObjects: 1.362500 ms  DeleteObjects: 0.010600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000468 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.613 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1771.
+Total: 1.614800 ms (FindLiveObjects: 0.168000 ms CreateObjectMapping: 0.027700 ms MarkObjects: 1.402800 ms  DeleteObjects: 0.015600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000473 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.605 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1774.
+Total: 1.507600 ms (FindLiveObjects: 0.161800 ms CreateObjectMapping: 0.027900 ms MarkObjects: 1.306700 ms  DeleteObjects: 0.010400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000435 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.599 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1777.
+Total: 1.490200 ms (FindLiveObjects: 0.153900 ms CreateObjectMapping: 0.029600 ms MarkObjects: 1.294200 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000392 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.613 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1780.
+Total: 1.614300 ms (FindLiveObjects: 0.173500 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.396500 ms  DeleteObjects: 0.012800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000454 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.603 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1783.
+Total: 1.852700 ms (FindLiveObjects: 0.250600 ms CreateObjectMapping: 0.029400 ms MarkObjects: 1.501600 ms  DeleteObjects: 0.015200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000427 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.600 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1786.
+Total: 1.514400 ms (FindLiveObjects: 0.167600 ms CreateObjectMapping: 0.030400 ms MarkObjects: 1.305200 ms  DeleteObjects: 0.010600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2326.693179 seconds.
+  path: Assets/Scripts/AI Scripts/EnemyController.cs
+  artifactKey: Guid(e2b477c0d784c3c4f8ee2a91ad6064ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI Scripts/EnemyController.cs using Guid(e2b477c0d784c3c4f8ee2a91ad6064ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e352f34c719d9c8670ca6002cd5e66') in 0.007692 seconds
+  Import took 0.010108 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000445 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.623 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1789.
+Total: 1.639300 ms (FindLiveObjects: 0.171600 ms CreateObjectMapping: 0.027700 ms MarkObjects: 1.424200 ms  DeleteObjects: 0.014900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000396 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.630 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1792.
+Total: 1.560600 ms (FindLiveObjects: 0.174700 ms CreateObjectMapping: 0.029000 ms MarkObjects: 1.345000 ms  DeleteObjects: 0.011200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000459 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.660 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1795.
+Total: 1.669900 ms (FindLiveObjects: 0.192000 ms CreateObjectMapping: 0.026800 ms MarkObjects: 1.434700 ms  DeleteObjects: 0.015800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000453 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.619 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1798.
+Total: 1.555000 ms (FindLiveObjects: 0.159900 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.355600 ms  DeleteObjects: 0.010500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000458 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.659 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1801.
+Total: 1.943600 ms (FindLiveObjects: 0.177900 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.720400 ms  DeleteObjects: 0.013300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000455 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.627 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1804.
+Total: 1.584700 ms (FindLiveObjects: 0.175000 ms CreateObjectMapping: 0.028500 ms MarkObjects: 1.369400 ms  DeleteObjects: 0.010900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.626 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.0 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1807.
+Total: 1.661400 ms (FindLiveObjects: 0.224900 ms CreateObjectMapping: 0.028300 ms MarkObjects: 1.391900 ms  DeleteObjects: 0.015400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000544 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.616 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1810.
+Total: 1.533600 ms (FindLiveObjects: 0.164900 ms CreateObjectMapping: 0.028000 ms MarkObjects: 1.329000 ms  DeleteObjects: 0.011000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000486 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.623 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1813.
+Total: 1.729700 ms (FindLiveObjects: 0.257100 ms CreateObjectMapping: 0.028200 ms MarkObjects: 1.428800 ms  DeleteObjects: 0.014900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000398 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.605 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1816.
+Total: 1.810000 ms (FindLiveObjects: 0.191100 ms CreateObjectMapping: 0.028400 ms MarkObjects: 1.575600 ms  DeleteObjects: 0.013700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000413 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.599 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1819.
+Total: 1.707300 ms (FindLiveObjects: 0.255300 ms CreateObjectMapping: 0.027600 ms MarkObjects: 1.408400 ms  DeleteObjects: 0.015000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000615 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.606 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1822.
+Total: 1.554800 ms (FindLiveObjects: 0.171600 ms CreateObjectMapping: 0.027900 ms MarkObjects: 1.343200 ms  DeleteObjects: 0.011200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000401 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.615 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1825.
+Total: 1.675500 ms (FindLiveObjects: 0.183900 ms CreateObjectMapping: 0.031300 ms MarkObjects: 1.443700 ms  DeleteObjects: 0.015900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.608 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1828.
+Total: 1.597500 ms (FindLiveObjects: 0.180900 ms CreateObjectMapping: 0.029400 ms MarkObjects: 1.371700 ms  DeleteObjects: 0.014500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2164.201821 seconds.
+  path: Assets/Scripts/AI Scripts/Enemy.cs
+  artifactKey: Guid(545fda987300fa846b0d00d1fbbaed5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI Scripts/Enemy.cs using Guid(545fda987300fa846b0d00d1fbbaed5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd376bf00291e86cd61f0545260774b49') in 0.007841 seconds
+  Import took 0.010320 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000419 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.610 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1262 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1832.
+Total: 1.772300 ms (FindLiveObjects: 0.296600 ms CreateObjectMapping: 0.027900 ms MarkObjects: 1.432900 ms  DeleteObjects: 0.014100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 208.891742 seconds.
+  path: Assets/Scripts/AI Scripts/Enemy.cs
+  artifactKey: Guid(545fda987300fa846b0d00d1fbbaed5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI Scripts/Enemy.cs using Guid(545fda987300fa846b0d00d1fbbaed5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6d99e5631dbceab60a2d287083fcbb') in 0.004259 seconds
+  Import took 0.006410 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000522 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.619 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1834.
+Total: 1.625100 ms (FindLiveObjects: 0.175500 ms CreateObjectMapping: 0.028500 ms MarkObjects: 1.408000 ms  DeleteObjects: 0.012400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 180.948299 seconds.
+  path: Assets/test
+  artifactKey: Guid(ef1c9a7f75ebee348aa17ccedac220c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test using Guid(ef1c9a7f75ebee348aa17ccedac220c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3e26a5e6faea1fe8084463f96007e4') in 0.007860 seconds
+  Import took 0.010656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/test
+  artifactKey: Guid(ef1c9a7f75ebee348aa17ccedac220c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test using Guid(ef1c9a7f75ebee348aa17ccedac220c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3e26a5e6faea1fe8084463f96007e4') in 0.001624 seconds
+  Import took 0.003063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096873 seconds.
+  path: Assets/test/NavMesh.asset
+  artifactKey: Guid(9450c667f1026d8418d4a00001b91cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test/NavMesh.asset using Guid(9450c667f1026d8418d4a00001b91cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c71e5460a5f1fcdb2a4f325e1c9b12d') in 0.013361 seconds
+  Import took 0.015535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.797780 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality
+  artifactKey: Guid(d621da3be77957a499b15680213f77c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Materials/High Quality using Guid(d621da3be77957a499b15680213f77c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd92faf8e0afeb1f140fe3635445ed6a') in 0.022622 seconds
+  Import took 0.025018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.594770 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/High Quality
+  artifactKey: Guid(0781965ec0a570641b87b1951d472fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/High Quality using Guid(0781965ec0a570641b87b1951d472fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62aba7a81b653074347b0e1cb5ec73d6') in 0.002018 seconds
+  Import took 0.004453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062355 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/High Quality/FreeZombie.prefab
+  artifactKey: Guid(0c74bed2ad49fad4d94fca86441ad49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/High Quality/FreeZombie.prefab using Guid(0c74bed2ad49fad4d94fca86441ad49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281f155879362efe3d8d0f9d2530207b') in 0.097410 seconds
+  Import took 0.099711 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000392 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.614 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1838.
+Total: 1.682800 ms (FindLiveObjects: 0.203800 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.435400 ms  DeleteObjects: 0.014200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000448 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.622 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1841.
+Total: 1.648800 ms (FindLiveObjects: 0.246500 ms CreateObjectMapping: 0.028900 ms MarkObjects: 1.360300 ms  DeleteObjects: 0.012100 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
